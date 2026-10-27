@@ -1,0 +1,10 @@
+/target/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.pfx
+*.p12
+*.jks
+*.keystore
